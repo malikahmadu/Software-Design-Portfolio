@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Malik Ahmadu | Software Developer - Data Analyst Portfolio"
 title_separator          : "-"
 name                     : &name "Malik Ahmadu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : "https://github.com/malikahmadu/Software-Design-Portf
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot.jpeg"
   name             : "Malik Ahmadu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a software developer and computer science student at the University of Houston with a passion for creating innovative solutions to complex problems. My interests include web development, data analytics, and artificial intelligence. In my free time, I enjoy working out, reading, and exploring new technologies."
   location         : "Houston, TX"
   employer         : "University of Houston"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/malikahmadu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/malik-ahmadu-93658a250/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
